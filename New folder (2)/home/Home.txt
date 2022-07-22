@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+<center>
+<form>
+<h1>MY HOME PAGE</h1>
+</head>
+</center>
+
+<body background="person.jpg" style="background-repeat: no-repeat;background-size: cover;">
+
+<body>
+<form>
+<tr>
+<a href="file:///C:/Users/chan/Desktop/New%20folder%20(2)/act%202%20-%203.html">
+<img src="Website.jpg" alt="HTML" style="width:100px;height:100px;">
+<h1>WEBSITES</h1>
+<h3>mga paborito kong gawin.</h3>
+</th>
+</tr><br>
+<tr>
+<a href="file:///C:/Users/chan/Desktop/New%20folder%20(2)/user.html">
+<img src="User.jpg" alt="HTML" style="width:100px;height:100px;">
+<h1>USER INFORMATION</h1>
+<h3>aking personalidad.</h3>
+</th>
+</tr><br>
+<tr>
+<a href="file:///C:/Users/chan/Desktop/New%20folder%20(2)/fam.html">
+<img src="familyy.jpg" alt="HTML" style="width:100px;height:100px;"></a>
+<h1>FAMILY</h1>
+<h3>Family Picture</h3>
+</th>
+</tr><br>

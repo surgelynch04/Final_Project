@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+<center>
+<form>
+<h1>USER/INFORMATION</h1>
+</center>
+
+<body background="mamabg.png" style="background-repeat: no-repeat;background-size: cover;">
+
+<center>
+<form>
+<tr>
+<h1 style="color: #556B2F">Evelyn Q. Simangan</h1>
+<h3 style="background-color:#FFFF00">Mother/Vendor</h3>
+</th>
+</tr><br>
+
+<img src="mama.jpg" style="width:210px;height:250px;">
+
+<table border="1px">
+<th colspan="2">
+<h1>INFORMATION DETAILS</h1>
+</th>
+</tr><br>
+
+<tr>
+<th>
+<h2 style="color:black">Religion:</h2>
+</th>
+<th>
+<input type="text" placeholder="Catholic">
+</th>
+</tr><br>
+<tr>
+<th>
+<h2>Civil Status</h2>
+</th>
+<th>
+<input type="text" placeholder="Married">
+</th>
+</tr><br>
+<tr>
+<th>
+<h2>Place of Birth</h2>
+</th>
+<th>
+<input type="text" placeholder="Cagayan">
+</th>
+</tr><br>
+<tr>
+<th>
+<h2>Citizenship</h2>
+</th>
+<th>
+<h2>Filipino</h2>
+</th>
+</tr><br>
+<tr>
+<th>
+<h2>Hobbies</h2>
+</th>
+<th>
+<h2>Farming, Bussiness, Stay Calm, Stay Positive</h2>
+</th>
+</tr><br>
+<tr>
+<th>
+<h2>Ako po si Evelyn Q. Simangan, 57 yrs old, Ako ang nagtatayo ng ina sa aming pamilya at Nagtitinda ako ng paninda at mahilig akong magtanim noong bata pako hanggang ngayon.
+</th>
+</tr><br>
+
+<tr>
+<a href="file:///C:/Users/chan/Desktop/New%20folder%20(2)/fam.html">
+<img src="homee.jpg" alt="HTML" style="width:80px;height:80px;"></a>
+</th>
+<tr><br> 
